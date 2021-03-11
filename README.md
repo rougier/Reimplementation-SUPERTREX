@@ -1,5 +1,10 @@
 #### README.md
 
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4596425.svg)](https://doi.org/10.5281/zenodo.4596425)
+
+
 Ref: 
 Pyle, R. and Rosenbaum, R., 2019.
 A reservoir computing model of reward-modulated motor learning and automaticity.
