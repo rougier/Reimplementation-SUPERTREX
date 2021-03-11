@@ -50,8 +50,7 @@ This implementation has two alterations:-
 -  To test the modification as a batch, use the script ```run_modification.sh``` to generate results of the three algorithms on all task variants.
 -  To test the modification as a batch on the scaled variants, use the script ```run_modification_on_scaled.sh``` to generate results of the SUPERTREX algorithms on scaled Task 2 variants.
 -  As a default, to test the FORCE algorithm on Task 1:  ```python3 run.py```
--  To test individually or to run your own variant:
-```python3 run.py
+-  To test individually or to run your own variant: ```python3 run.py
 --parameters="<Path_to_simulation_parameter_file.json>"
 --experiment="<Path_to_task_parameter_file.json>"```
 

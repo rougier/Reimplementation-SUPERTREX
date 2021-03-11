@@ -39,8 +39,7 @@ Author: Remya Sankar
 
 -  To run as a batch, use the script ```run_reimplementation.sh``` to generate results of the three algorithms on all task variants. This corresponds to Figure 1, 2, 3 and 4 of the paper about the re-implementation.
 - As a default, to test the FORCE algorithm on Task 1:  ```python3 run.py```
--  To test individually or to run your own variant:
-```python3 run.py
+-  To test individually or to run your own variant: ```python3 run.py
 --parameters="<Path_to_simulation_parameter_file.json>"
 --experiment="<Path_to_task_parameter_file.json>"```
 
